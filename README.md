@@ -18,7 +18,7 @@ This repository contains the server-side application and API used by the separat
 | PHPUnit | Automated tests |
 | Laravel Pint | PHP formatting |
 
-The Composer configuration requires PHP `^8.2`, Laravel `^12.0`, and Sanctum `^4.3`. fileciteturn79file0
+The Composer configuration requires PHP `^8.2`, Laravel `^12.0`, and Sanctum `^4.3`.
 
 ## Backend Responsibilities
 
@@ -105,7 +105,7 @@ php artisan test
 ./vendor/bin/pint
 ```
 
-The project's Composer scripts also include a combined local development workflow and automated test command. fileciteturn79file0
+The project's Composer scripts also include a combined local development workflow and automated test command.
 
 ## Frontend
 
@@ -128,3 +128,5 @@ The frontend provides the public and application UI; this repository provides th
 ## License
 
 This project is licensed under the license included in the repository.
+
+<!-- README refresh: documentation-only change. -->
